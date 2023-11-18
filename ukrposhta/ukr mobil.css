@@ -1,0 +1,21 @@
+@media screen and (min-width: 100px) and (max-width: 480px){
+  html{
+    font-size: 7px;
+  }
+  .main triple{
+    flex-direction: column;
+    width: 100vw;
+
+  }
+  .input1{
+    flex-direction: column;
+  }
+  .button4{
+    flex-direction: column;
+  }
+  .firstmain{
+    flex-direction: column;
+    justify-content: flex-end;
+
+  }
+}
